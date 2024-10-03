@@ -1,0 +1,17 @@
+.error {
+    color: red;
+    font-size: 0.8em;
+  }
+  
+  form {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  div {
+    margin-bottom: 15px;
+  }
+  
